@@ -1,4 +1,4 @@
-def fizzbuzz(int)
+def fizzbuzz(int num)
   if (( num % 3  == 0) && ( num % 5 == 0))
     return "FizzBuzz"
   elsif (num % 3 == 0)
